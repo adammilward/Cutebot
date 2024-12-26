@@ -1,3 +1,11 @@
-basic.forever(function () {
-	
-})
+cuteBot.forward()
+basic.pause(1000)
+cuteBot.stopcar()
+basic.pause(1000)
+cuteBot.turnleft()
+basic.pause(1000)
+cuteBot.turnright()
+basic.pause(1000)
+cuteBot.forward()
+basic.pause(1000)
+cuteBot.stopcar()
